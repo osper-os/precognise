@@ -1,0 +1,14 @@
+=========
+Changelog
+=========
+
+Here you can find the recent changes to precognise.
+
+.. changelog::
+    :version: 0.1.1
+    :released: Initial release
+
+    .. change::
+        :tags:  docs
+
+        Updated CHANGES. Added first cut.
